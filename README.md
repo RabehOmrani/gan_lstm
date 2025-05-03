@@ -5,7 +5,6 @@ This repository contains the implementation of a novel deep learning framework t
 ## Authors
 - OMRANI Rabah
 - Maroc Abdelhakim Fouad
-- ESI SBA School
 
 ## Overview
 
@@ -15,7 +14,7 @@ Our LSTM-GAN model consists of two main components:
 
 The model is trained and evaluated on the PTB-XL dataset, a large publicly available electrocardiography dataset.
 
-![Generated ECG Samples](working/results/generated_samples.png)
+
 
 ## Key Features
 
@@ -37,7 +36,7 @@ Our LSTM-GAN model outperforms traditional LSTM classifiers and LSTM with data a
 
 Improvement over LSTM baseline: Accuracy +2.32%, F1 +2.69%
 
-![Model Comparison](working/evaluation/model_comparison.png)
+
 
 ## Repository Structure
 
@@ -61,7 +60,7 @@ Improvement over LSTM baseline: Accuracy +2.32%, F1 +2.69%
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/ecg-lstm-gan.git
+git clone https://github.com/RabehOmrani/gan_lstm/
 cd ecg-lstm-gan
 
 # Create and activate a virtual environment (optional)
