@@ -40,7 +40,7 @@ Improvement over LSTM baseline: Accuracy +2.32%, F1 +2.69%
 
 ## Repository Structure
 
-\`\`\`
+```
 ├── data/                  # Data storage directory
 ├── src/                   # Source code
 │   ├── data/              # Data processing modules
@@ -54,7 +54,7 @@ Improvement over LSTM baseline: Accuracy +2.32%, F1 +2.69%
 ├── baseline/              # Baseline model results
 ├── main.py                # Main script
 └── README.md              # This file
-\`\`\`
+```
 
 ## Installation
 
